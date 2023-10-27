@@ -22,3 +22,6 @@ This section is a new section.
 Adding more description
 
 again modified
+
+##Copyright
+2014 Git.Training
