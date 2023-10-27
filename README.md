@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 ## How to contribute 
 
 This is a sample file. We are just adding the files.
-
+Please fork this repository and then issue a pull request for review.
 
 #Adding a new section
 
