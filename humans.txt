@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shivinder Kapil skapil@git.com
 
 # THANKS
 
